@@ -1,3 +1,5 @@
+# Tips Blog = https://helping-squad.com/nginx-rtmp-secure-your-nginx-server/
+
 nginx-rtmp-win32
 ================
 
